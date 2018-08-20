@@ -1,0 +1,10 @@
+body{
+    background: url(assets/images/violin.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+.songlist{
+    margin-top: 15vh;
+
+}
